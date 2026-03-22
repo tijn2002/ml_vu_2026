@@ -5,3 +5,5 @@ This is our repo of the 2026 VU Machine Learning course project. It includes all
 -  "data.csv" for the dataset used.
 -  "misc" contains old stuff that was saved because it could be useful. Provides some timeline as to how the project developed as I was not consistent with my commits.
 -  "requirements.txt" for all packages used.
+
+LLM disclaimer: AI was used to discuss high-level ideas, to learn about certain topics, and for generating code for nice plots.
