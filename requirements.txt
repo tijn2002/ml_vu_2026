@@ -5,3 +5,4 @@ scikit-learn
 xgboost
 sdv
 imbalanced-learn
+optuna
