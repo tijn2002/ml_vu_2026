@@ -145,7 +145,7 @@ env.bak/
 venv.bak/
 ml_vu_venv/
 
-/misc
+misc/
 
 # Spyder project settings
 .spyderproject
